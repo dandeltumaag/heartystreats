@@ -1,0 +1,16 @@
+.navBarbg{
+  background-color: var(--navBarBg);
+}
+.bold{
+  font-weight: bold;
+}
+.boldItalic{
+  font-weight: bold;
+  font-style: italic;
+}
+.crimson {
+  color: var(--crimson);
+}
+.dark {
+  color: var(--black);
+}
